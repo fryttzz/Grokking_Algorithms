@@ -1,3 +1,3 @@
 # Entendendo Algoritmos
 
-Soluções dos algoritmos encontrados no livro [Entendendo Algoritmos](https://www.amazon.com.br/Entendendo-Algoritmos-ilustrado-programadores-curiosos-ebook/).
+Soluções dos algoritmos encontrados no livro [Entendendo Algoritmos](https://a.co/d/gSZSB3m).
